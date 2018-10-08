@@ -54,7 +54,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 #### Execution
 
-In a terminal or command window, navigate to the top-level project directory `____` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `Naive_Bayes_Tutorial` (that contains this README) and run one of the following commands:
 
 ```bash
 ipython notebook report.ipynb
