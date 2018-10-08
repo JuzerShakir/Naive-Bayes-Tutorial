@@ -1,7 +1,18 @@
 # Project: Naive Bayes Tutorial
 ## Spervised Learning, Classification
 
+----
 
+### Table Of Contents:
+- [Description](#description)<br>
+    - [About the project](#about-the-project)<br>
+- [Data](#data)<br>
+    - [Files](#files)<br>
+    - [Dataset file](#dataset-file)<br>
+- [Loading Project](#loading-project)<br>
+    - [Requirements](#requirements)<br>
+    - [Execution](#execution)<br>
+    
 ----
 
 ### Description
