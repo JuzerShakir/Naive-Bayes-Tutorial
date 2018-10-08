@@ -1,1 +1,2 @@
-Naive Bayes tutorial from scratch. Can be viewed in the iPython notebook. Happy learning!
+# Project: Naive Bayes Tutorial
+## Spervised Learning, Classification
