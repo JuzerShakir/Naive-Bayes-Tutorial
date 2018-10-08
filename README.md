@@ -1,6 +1,32 @@
 # Project: Naive Bayes Tutorial
 ## Spervised Learning, Classification
 
+
+----
+
+### Description
+
+#### About the project
+In this project we need to predict whether a message is spam or ham/not spam with Naive Bayes Classifier. This project will guide us through how to use Bag of Words and Naive Bayes step by step and understand its intuition and how its implemented along the way.
+
+----
+
+### Data
+
+#### Files
+
+This project contains 2 files and 2 folder:
+
+- `report.ipynb`: This is the main file where I have performed my work on the project.
+- `data`: The project dataset. I have loaded this data in the notebook..
+- `export/` : Folder containing HTML and PDF version file of notebook.
+- `images/` : Contains Images which are displayed in `report.ipynb` file.
+
+#### Dataset file
+`data` file, contains 500+ instances on whether a particular message is spam or not spam / spam or ham.
+
+----
+
 ### Loading Project
 
 #### Requirements
